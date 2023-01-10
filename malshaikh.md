@@ -4,7 +4,7 @@
 
 ### **Data Science** is *multidisplinary field* that combines statsistcs, computer science and domain knowlege.
 
-<img src="c:\Users\alsha\Downloads\DS.png" alt="DS" width="200" height="400"/>
+<img src="DS.png" alt="DS" width="200" height="400"/>
 
 ## Data Types
 - Structured Data
