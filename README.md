@@ -1,8 +1,8 @@
 # Day3-Lab3-Markdown
-## Use Markdown rules to apply [this styles.](https://github.com/Tuwaiq-Data-Science-Bootcamp-V2/Day3-Lab3-Markdown/blob/main/style.md)
+### Use Markdown rules to apply [this styles.](https://github.com/Tuwaiq-Data-Science-Bootcamp-V2/Day3-Lab3-Markdown/blob/main/style.md)
 
 
-### Hint: for more information, go to: https://www.markdownguide.org/cheat-sheet/
+#### Hint: for more information, go to: https://www.markdownguide.org/cheat-sheet/
 
 ## Requirements:
 - Heading style.
