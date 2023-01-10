@@ -2,7 +2,7 @@
 ## What is Data Science?
 **Data Science** is an *multidisciplinary* field that combines statistics, computer science and domain knowledge.
 
-![Image](DS.png | width=300)
+<img src="DS.png" width="300">
 
 ### Data Types:
 - Structured Data
