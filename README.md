@@ -1,7 +1,8 @@
 # Day3-Lab3-Markdown
 ## Use Markdown rules to apply this styles:
 
-<img width="870" alt="Screen Shot 1444-06-17 at 9 20 35 AM" src="https://user-images.githubusercontent.com/89189772/211476839-f8ad0ccd-06fe-45c1-8449-c11151c59820.png">
+[Click Here](https://github.com/Tuwaiq-Data-Science-Bootcamp-V2/Day3-Lab3-Markdown/blob/main/style.md)
+
 
 ### Hint: for more information, go to: https://www.markdownguide.org/cheat-sheet/
 
