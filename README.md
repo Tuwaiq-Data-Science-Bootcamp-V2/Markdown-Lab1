@@ -1,18 +1,19 @@
-# Day3-Lab3-Markdown
-### Use Markdown rules to apply [this styles.](https://github.com/Tuwaiq-Data-Science-Bootcamp-V2/Day3-Lab3-Markdown/blob/main/style.md)
+# Data Science 
+## What is Data Science?
+ **Data Science** is a *multidisciplinary field* that combaines statistics, computer science, and domain knowledge.
+<img title="image" alt="Alt text" src="DS.png" width="400" height="400">
+ ### Data types
 
+ - Structured Data
+ - Semi-Structured Data
+ - Unstructured Data
 
-#### Hint: for more information, go to: https://www.markdownguide.org/cheat-sheet/
-
-## Requirements:
-- Heading style.
-    - H1 for “Data Science”.
-    - H2 for "What is Data Science?”.
-    - H3 for “Data Types”.
-- Bold style for “Data Science” Defnition.
-- Italic style for “multidisciplinary field “.
-- Image style for “DS.png” and resize the image to width="400" and height="400".
-- Unordered List for Data Types.
-- Link style for the following link “https://en.wikipedia.org/wiki/Data_science”.
-- Table style for Data Types.
-- Code style for python code prints “DS Bootcamp”.
+ | **Structured Data** | **Semi-Structured Data** | **Unstructured Data** |
+ | ----------- | ----------- | ----------- |
+ | it is data that has been organized into a strict schema. | it is data that does not conform to schema but has some structure.| it is data that has no schema.|
+ |e.g: tabels|e.g: xml|e.g:photos|
+```python 
+print("DS Bootcamp")
+```
+ 
+ [read more](https://en.wikipedia.org/wiki/Data_science”)
