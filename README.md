@@ -13,12 +13,15 @@
 <img src="./DS.png" width="400" height="400"/>
 
 ### Data Types
-- structured data 
-- semi-structured data 
-- unstructured data
+- Structured Data
+- Semi-Structured Data
+- Unstructured Data
 
-| Syntax | Description |
+| Structured | Semi-Structured |Unstructured
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| It is data that has been organized into a strict schema.| It is data that does not conform to a schema but has some structure.
+|It is data that has no schema.|
+| e.g: tables| e.g: xml |e.g: photos|
+
+
 
