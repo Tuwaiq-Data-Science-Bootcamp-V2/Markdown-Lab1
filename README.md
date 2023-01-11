@@ -19,10 +19,10 @@
 
 
 
-| Structured      | Semi-Structured | Unstructured  |
-| -----------     | -----------     | -----------   |
-| Header          | Title           | Here's this   |
-| Paragraph       | Text            | And more      |
+| Structured                                                   | Semi-Structured                                               | Unstructured                                                  |
+| ---------------------------------------------------------    | ---------------------------------------------------------     |  ---------------------------------------------------------    |
+|  It is data that has been organized into a strict schema     | Title                                                         | Here's this                                                   |
+| Paragraph                                                    | Text                                                          | And more                                                      |
 
 
 
