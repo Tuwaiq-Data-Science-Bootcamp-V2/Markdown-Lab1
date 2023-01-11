@@ -22,7 +22,7 @@
 | Structured                                                   | Semi-Structured                                                       | Unstructured                                                  |
 | ---------------------------------------------------------    | ---------------------------------------------------------             |  ---------------------------------------------------------    |
 |  It is data that has been organized into a strict schema     | It is data that does not conform to a schema but has some structure.  | It is data that has no schema                                 |
-| Paragraph                                                    | Text                                                                  | And more                                                      |
 | e.g: tables                                                  | e.g: xml                                                              |e.g: photos                                                    |
 
-
+`print ("DS Bootcamp")`
+[Read More](https://user-images.githubusercontent.com/89189772/211477266-d296e2d0-892c-4524-bc49-64db7bd9f515.png)
