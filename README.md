@@ -1,8 +1,3 @@
-# Day3-Lab3-Markdown
-### Use Markdown rules to apply [this styles.](https://github.com/Tuwaiq-Data-Science-Bootcamp-V2/Day3-Lab3-Markdown/blob/main/style.md)
-
-
-#### Hint: for more information, go to: https://www.markdownguide.org/cheat-sheet/
 
 ## Requirements:
 - Heading style.
@@ -18,4 +13,9 @@
 - Code style for python code prints “DS Bootcamp”.
 
 # Data Science
+**Data science** is a *multidisciplinary* field that combines statistics, computer science and domain knowledge
+
+![alt text](./DS.png)
+## What is Data Science?
+### Data Types
 
