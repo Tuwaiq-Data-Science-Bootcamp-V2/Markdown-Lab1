@@ -19,4 +19,4 @@
 ```
 print ("DS Bootcamp")
 ```
-[Read More](https://user-images.githubusercontent.com/89189772/211477266-d296e2d0-892c-4524-bc49-64db7bd9f515.png)
+[Read More](https://en.wikipedia.org/wiki/Data_science)
