@@ -1,17 +1,4 @@
-<Style>
-    .py
-    {
-        background: #F0F8FF;
-        border: 0px solid;
-        border-radius: 8px;
-        padding-top: 1px;
-        padding-right: 1px;
-        padding-bottom: 1px;
-        padding-left: 10px;
-        
-    }
-      
-</Style>
+
 
 # Data Science
 ## What is Data Science?
@@ -47,7 +34,7 @@
 </div>
 <div class="py">
 
-<span style="color: #9400D3;">print</span> <span style="color: #191970;">("DS Bootcamp")</span>
+<span style="color: #9400D3;">print</span>  <span style="color: #191970;">("DS Bootcamp")</span>
 
 </div>
 
