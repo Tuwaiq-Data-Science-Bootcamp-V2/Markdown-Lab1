@@ -19,10 +19,10 @@
 
 
 
-| Structured                                                   | Semi-Structured                                               | Unstructured                                                  |
-| ---------------------------------------------------------    | ---------------------------------------------------------     |  ---------------------------------------------------------    |
-|  It is data that has been organized into a strict schema     | Title                                                         | Here's this                                                   |
-| Paragraph                                                    | Text                                                          | And more                                                      |
-
+| Structured                                                   | Semi-Structured                                                       | Unstructured                                                  |
+| ---------------------------------------------------------    | ---------------------------------------------------------             |  ---------------------------------------------------------    |
+|  It is data that has been organized into a strict schema     | It is data that does not conform to a schema but has some structure.  | It is data that has no schema                                 |
+| Paragraph                                                    | Text                                                                  | And more                                                      |
+| e.g: tables                                                  | e.g: xml                                                              |e.g: photos                                                    |
 
 
