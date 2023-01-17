@@ -1,4 +1,4 @@
-# Day3-Lab3-Markdown
+# Markdown-Lab1
 ### Use Markdown rules to apply [this styles.](https://github.com/Tuwaiq-Data-Science-Bootcamp-V2/Day3-Lab3-Markdown/blob/main/style.md)
 
 
